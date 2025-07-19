@@ -1,5 +1,0 @@
-Trabajo de POO
-Polimorfismo
-Matematicas
-Sistemas
-Fisica
