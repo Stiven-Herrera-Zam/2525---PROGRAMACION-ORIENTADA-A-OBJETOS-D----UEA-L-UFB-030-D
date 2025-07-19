@@ -11,7 +11,7 @@ def mostrar_menu():
     print("5 - Semana 5/Uso de Tipos de datos, Identificadores..py")
     print("6 - Semana 6/Clases, objetos, herencia, encapsulamiento y polimorfismo.py")
     print("7 - Semana 7/Constructores y Destructores.py")
-    print("8 - Semana 8/Dashboard.py")
+    print("8 - Semana 8/Organización de un proyecto orientado a objetos.py")
     print("9 - Salir")  #Para salir del programa
 
 # Define la ruta base absoluta donde está ubicado tu proyecto en PyCharm
@@ -26,7 +26,7 @@ scripts = {
     "5": os.path.join(ruta_base, "Semana 5", "Uso de Tipos de datos, Identificadores..py"),
     "6": os.path.join(ruta_base, "Semana 6", "Clases, objetos, herencia, encapsulamiento y polimorfismo.py"),
     "7": os.path.join(ruta_base, "Semana 7", "Constructores y Destructores.py"),
-    "8": os.path.join(ruta_base, "Semana 8", "Dashboard.py"),
+    "8": os.path.join(ruta_base, "Semana 8", "Organización de un proyecto orientado a objetos.py"),
 }
 
 # Función que abre y muestra el contenido del archivo indicado por la ruta
